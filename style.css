@@ -1,0 +1,16 @@
+*{
+    background-color: red;
+}
+
+h1{
+    font-family: 'Poppins';
+    color: blueviolet;
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: greenyellow;
+    font-size: 22px;
+}
+
