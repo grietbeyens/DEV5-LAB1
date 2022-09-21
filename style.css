@@ -2,11 +2,18 @@
     background-color: red;
 }
 
-h1{
+a{
+    color: cyan;
+    font-style: italic;
+}
+
+
+h1, h2{
     font-family: 'Poppins';
     color: blueviolet;
     font-weight: bold;
 }
+
 
 p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
